@@ -604,8 +604,5 @@ A good user interface makes it easy for the user to make good decisions, and hid
 
 <a name="saltzer">2</a>: Saltzer, J.H. AND Schroeder, M.D., “The Protection of Information in Computer Systems,” Proceedings of the IEEE, vol. 63, no. 9, Sept 1975
 
-## Suggested further reading
-Unit testing resources: Salesforce documentation: https://developer.salesforce.com/page/How_to_Write_Good_Unit_Tests
 
-Another good resource is this presentation from an in-house informal introduction workshop to TDD: https://docs.google.com/presentation/d/1YOfF5JFbfnGckk912v4IzuHFoVo_zV-a2UlNCstRrrw/edit?usp=sharing
 
