@@ -37,7 +37,7 @@ The methodology described is based on agile project structures and borrows part 
 from a methodology developed for safety critical systems by SINTEF called 
 SAFEScrum. It also uses insights from Nicolaysen et. al.<sup>[1](#nicolaysen)</sup>.
 
-![Principal process for secure development](https://raw.githubusercontent.com/hakdo/markdowntest/master/secedevflow.png)
+![Principal process for secure development](secedevflow.png)
 
 ### Key features of the workflow: 
 Software vulnerabilities can stem from design flaws, and implementation errors. We want to have an agile process that supports reducing the risk of both types of errors. The key factors contributing to risk reduction are *competence development guarding against all types*, *threat modeling guarding against design flaws* and *automated code analysis guarding against implementation errors*. Dynamic testing will also be needed, and helps guard against both error sources.
